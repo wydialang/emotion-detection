@@ -1,6 +1,11 @@
 # emotiondetect
 
-# (first project) 
-building neural networks for detecting emotions in a human face
+(first project) built a tensorflow model with keras
 
-attempt to improve accuracy (human accuracy ~65%)
+tested both MLP and CNN neural networks on detecting emotions in a human face
+
+attempt to improve accuracy (human accuracy is about 65%)
+
+# notes
+- model using distances between facial landmarks performed better than raw pixel inputs
+
