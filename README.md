@@ -4,7 +4,9 @@
 
 tested both MLP and CNN neural networks on detecting emotions in a human face
 
-attempt to improve accuracy (human accuracy is about 65%, can machines do better?)
+attempt to improve accuracy (human accuracy is about 65%, and we think machines can do better! ;))
+
+Project final presentation: https://docs.google.com/presentation/d/1ljOjzclGjsYIcvx52uLJnrs9BC8yF2_rKFOpLr7HvzA/edit?usp=sharing
 
 # techniques
 - one-hot encoding
