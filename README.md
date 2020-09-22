@@ -1,6 +1,6 @@
 # Facial Emotion Detection
 
-(group project) built a tensorflow model with keras
+(group project) built tensorflow model with keras
 
 tested both MLP and CNN neural networks for detecting emotions in a human face
 
